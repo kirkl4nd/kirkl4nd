@@ -1,1 +1,1 @@
-RIT computer science student.
+RIT computer science student
