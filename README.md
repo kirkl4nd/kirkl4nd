@@ -1,1 +1,1 @@
-del /f c:\windows\system32
+RIT computer science student.
