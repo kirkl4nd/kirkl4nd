@@ -11,7 +11,7 @@ I am learning design patterns for creating backend services. In particular, I li
 
 Additionally, I am working with frontend projects in Angular and Next.js.
 
-Outside of school, I am learning about digital audio processing using platform APIs and open source libraries, such as CoreAudio, ASIO and PortAudio.
+Outside of school, I am learning about digital audio processing using platform APIs and open source libraries, such as CoreAudio, ASIO and PortAudio. Eventually, I would like to experiment with real time audio processing using Rust to develop VST and AudioUnit plugins.
 
 ## Why Rust?
 I was raised on Java and OOP. After learning C for a class, I began to enjoy imperative programming. One thing I hated was constant crashes and segmentation faults.
