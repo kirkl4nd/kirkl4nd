@@ -1,7 +1,7 @@
 # About me
 Third-year CS student @ Rochester Institute of Technology.
 
-Proud Rustacean and c# denier.
+C# denier.
 
 Electronic music enthusiast and rugby player.
 
