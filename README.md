@@ -1,7 +1,5 @@
 # About me
-Third-year CS student @ Rochester Institute of Technology.
-
-C# denier.
+RIT GCCIS CompSci BS.  Problem creator and problem solver.  Security researcher. 
 
 Electronic music enthusiast and rugby player.
 
